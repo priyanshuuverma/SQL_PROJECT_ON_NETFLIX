@@ -7,18 +7,18 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 # Objectives
 ________________________________________________________________________________
-Analyze the distribution of content types (movies vs TV shows).
-Identify the most common ratings for movies and TV shows.
-List and analyze content based on release years, countries, and durations.
-Explore and categorize content based on specific criteria and keywords.
+1. Analyze the distribution of content types (movies vs TV shows).
+2. Identify the most common ratings for movies and TV shows.
+3. List and analyze content based on release years, countries, and durations.
+4. Explore and categorize content based on specific criteria and keywords.
 # Tools & Technologies:
-PostgreSQL: The database management system used for querying and managing the dataset.
-pgAdmin 4: The integrated development environment (IDE) used for connecting to PostgreSQL, creating and executing SQL queries, and managing the database schema.
-SQL: Structured Query Language used to perform all data manipulation and retrieval tasks.
+1. PostgreSQL: The database management system used for querying and managing the dataset.
+2. pgAdmin 4: The integrated development environment (IDE) used for connecting to PostgreSQL, creating and executing SQL queries, and managing the database schema.
+3. SQL: Structured Query Language used to perform all data manipulation and retrieval tasks.
 
 # Project Steps:
-Dataset Upload & Schema Design: Loading the 8808 rows dataset into PostgreSQL and creating tables with appropriate column types.
-Data Preprocessing: Using SQL commands to clean and prepare the data for analysis, ensuring no invalid or redundant records exist.
-Data Analysis: Writing SQL queries to perform aggregations, filtering, and sorting to uncover valuable insights (such as average sales, customer demographics, etc.).
-Performance Tuning: Indexing key columns and optimizing SQL queries for better performance.
-Reporting: Generating reports and visualizations (if applicable) based on the insights derived from the dataset.
+1. Dataset Upload & Schema Design: Loading the 8808 rows dataset into PostgreSQL and creating tables with appropriate column types.
+2. Data Preprocessing: Using SQL commands to clean and prepare the data for analysis, ensuring no invalid or redundant records exist.
+3. Data Analysis: Writing SQL queries to perform aggregations, filtering, and sorting to uncover valuable insights (such as average sales, customer demographics, etc.).
+4. Performance Tuning: Indexing key columns and optimizing SQL queries for better performance.
+5. Reporting: Generating reports and visualizations (if applicable) based on the insights derived from the dataset.
